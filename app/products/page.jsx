@@ -3,10 +3,8 @@ import { useState } from "react";
 const products = [
   { id: 1, name: "Red Dress", price: 1200, img: "/Red Dress.jpg" },
   { id: 2, name: "Men's Jacket", price: 1800, img: "/Men's Jacket.jpg" },
-  { id: 3, name: "Sneakers", price: 2200, img: "/sneakers.jpg" },
   { id: 4, name: "Handbag", price: 1500, img: "/handbag.jpg" },
   { id: 5, name: "Watch", price: 2500, img: "/watch.jpg" },
-  { id: 6, name: "Sunglasses", price: 900, img: "/sunglasses.jpg" },
   { id: 7, name: "Jeans", price: 1300, img: "/jeans.jpg" },
   { id: 8, name: "Shirt", price: 1100, img: "/shirt.jpg" },
   { id: 9, name: "Boots", price: 2000, img: "/boots.jpg" },
